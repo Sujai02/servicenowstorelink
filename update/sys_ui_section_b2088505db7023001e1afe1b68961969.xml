@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="b2088505db7023001e1afe1b68961969" sys_domain="global" table="cmdb_ci_appl_dot_net" version="3" view="GIT">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>change_control</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-25 09:11:56</sys_created_on>
+            <sys_id>f6088505db7023001e1afe1b6896196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_appl_dot_net" sys_domain="global" view="3e088505db7023001e1afe1b68961965">b2088505db7023001e1afe1b68961969</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-25 09:11:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-25 09:11:56</sys_created_on>
+            <sys_id>7a088505db7023001e1afe1b6896196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_appl_dot_net" sys_domain="global" view="3e088505db7023001e1afe1b68961965">b2088505db7023001e1afe1b68961969</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-25 09:11:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-25 09:11:56</sys_created_on>
+            <sys_id>cb088505db7023001e1afe1b6896196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_appl_dot_net" sys_domain="global" view="3e088505db7023001e1afe1b68961965">b2088505db7023001e1afe1b68961969</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-25 09:11:56</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>cmdb_ci_appl_dot_net</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-25 09:11:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2088505db7023001e1afe1b68961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_appl_dot_net</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="servicenowstorelink" source="x_124618_serviceno">5876c541db3023001e1afe1b68961976</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="servicenowstorelink">5876c541db3023001e1afe1b68961976</sys_scope>
+            <sys_update_name>sys_ui_section_b2088505db7023001e1afe1b68961969</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-25 09:11:56</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="GIT" name="GIT">3e088505db7023001e1afe1b68961965</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
